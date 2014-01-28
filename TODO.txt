@@ -1,5 +1,0 @@
-0. Che applicazione preparare nel corso delle lezioni?
-
-
-1. Il perchè di HTML5
-	- nuovi tag semantici (mostrare codice di una pagina con normali div e la stessa tradotta con nuovi tag semantici)
